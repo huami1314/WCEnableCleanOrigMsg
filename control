@@ -1,0 +1,9 @@
+Package: com.huam.wcenablecleanorigmsg
+Name: WCEnableCleanOrigMsg
+Version: 1.0
+Architecture: iphoneos-arm
+Description: 启用54版本【原图、原视频14天后自动清理】
+Maintainer: huami
+Author: huami
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
